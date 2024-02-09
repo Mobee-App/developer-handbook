@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdeveloper_handbook=self.webpackChunkdeveloper_handbook||[]).push([[5256],{8856:e=>{e.exports=JSON.parse('{"permalink":"/developer-handbook/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
